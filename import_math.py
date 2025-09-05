@@ -1,0 +1,11 @@
+import math
+print('[+] Exponent')
+print(math.exp(2))
+print('[+] Power')
+print(math.pow(2,2))
+print('[+] Ceil')
+print(math.ceil(2.2))
+print('[+] Floor')
+print(math.floor(2))
+print('[+] Square Root')
+print(math.sqrt(25))
